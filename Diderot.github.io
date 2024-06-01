@@ -54,7 +54,7 @@
     <div class="session" id="session1">
         <h2>플라스틱과 페트병</h2>
         <div class="photo">
-            <img src="https://gist.github.com/assets/110834459/4eae5159-0678-4c61-8ed8-99d769f21ae5" alt="세션 1의 사진">
+            <img src="https://gist.github.com/assets/110834459/4eae5159-0678-4c61-8ed8-99d769f21ae5" alt="플라스틱과 페트병">
         </div>
     </div>
 
@@ -62,7 +62,7 @@
     <div class="session" id="session2">
         <h2>종이와 의약품</h2>
         <div class="photo">
-            <img src="https://gist.github.com/assets/110834459/ce1385f9-6053-41cf-b7d2-69ee45d5afbc" alt="세션 2의 사진">
+            <img src="https://gist.github.com/assets/110834459/ce1385f9-6053-41cf-b7d2-69ee45d5afbc" alt="종이와 의약품의 사진">
         </div>
     </div>
 
@@ -70,7 +70,7 @@
     <div class="session" id="session3">
         <h2>음식물쓰레기</h2>
         <div class="photo">
-            <img src="https://gist.github.com/assets/110834459/12acc260-ae56-4799-9b17-dd3dcac59152" alt="세션 3의 사진">
+            <img src="https://gist.github.com/assets/110834459/12acc260-ae56-4799-9b17-dd3dcac59152" alt="음식물쓰레기의 사진">
         </div>
     </div>
 
@@ -78,7 +78,7 @@
     <div class="session" id="session4">
         <h2>재활용사례</h2>
         <div class="photo">
-            <img src="https://gist.github.com/assets/110834459/1a6967b0-f979-4e4c-a392-2a9ffbaccacd" alt="세션 4의 사진">
+            <img src="https://gist.github.com/assets/110834459/1a6967b0-f979-4e4c-a392-2a9ffbaccacd" alt="재활용사례의 사진">
         </div>
     </div>
 
